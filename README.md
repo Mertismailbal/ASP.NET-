@@ -1,1 +1,1 @@
-# ASP.NET LEARNİNG
+# "Projects I developed while learning ASP.NET"
